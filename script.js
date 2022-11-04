@@ -37,7 +37,7 @@ btn.addEventListener("click", () => {
             console.log(data)
         })
         .catch((error) => {
-            result.innerHTML = `<h2>This pincode belongs to a village or location. And the API does not have the data for it yet.<h2>`
+            result.innerHTML = `<h2>This pincode belongs to a village or locality. And the API does not have the data for it yet.<h2>`
             // console.log('Error', error)
         })
 })
