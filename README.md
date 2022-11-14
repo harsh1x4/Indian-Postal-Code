@@ -1,4 +1,5 @@
 # Indian-Postal-Code
+![Indian-Postal-Code](https://socialify.git.ci/harsh1x4/Indian-Postal-Code/image?font=KoHo&language=1&name=1&owner=1&pattern=Charlie%20Brown&theme=Dark)
 A repository where you can search Indian postal codes. The API is hosted on Heroku, and it takes some seconds to start. You can see the coordinates on the map as well. The data on API is from the official website of India Post. The API will return data in JSON format.
 
 ## Deployments
