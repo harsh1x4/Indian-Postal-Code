@@ -1,4 +1,5 @@
-const apiUrl = 'https://indianpincodeapi.herokuapp.com/pincode' //For Button
+// const apiUrl = 'https://indianpincodeapi.herokuapp.com/pincode' //For Button
+const apiUrl = 'https://motionless-moth-overcoat.cyclic.app/pincode'
 // const apiUrl = 'https://indianpincodeapi.herokuapp.com/pincode?Pincode=828103' //For Trial Purpose
 // https://embedmapgenerator.com
 
